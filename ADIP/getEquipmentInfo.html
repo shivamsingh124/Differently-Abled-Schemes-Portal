@@ -2,9 +2,6 @@
     
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-
-<!--  /getEquipmentInfo  /3.x [XR&CO'2014], Fri, 18 Mar 2022 15:17:07 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" /><!-- /Added by HTTrack -->
 <head>
 <script type="text/javascript" src="js/homepage/inspect_element.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -20,94 +17,6 @@
 	<div class="wrapper">
 		<div class="container-fluid">
 			<div class="row">
-				
-
-
-
-
-
-
-	<div class="clearfix"></div>
-	<!--  schema files modal close -->
-	<script type="text/javascript" src="js/homepage/sha256.js"></script>
-	<script type="text/javascript" src="js/formFieldValidation/CSRF2.js"></script>
-	<script type="text/javascript" src="js/formFieldValidation/md5.js"></script>
-		<script type="text/javascript" src="js/homepage/inspect_element.js"></script>
-	
-	
-	<script src="js/dashboard/alert_new.js"></script>
-	<script src="js/dashboard/alert.js"></script>
-	<script src="js/dashboard/sweetalert.min.js"></script>
-
-	<script type="text/javascript">
-	function changeCaptcha1()
-	{
-		//alert("kkk");
-		$.ajax({
-			type:"GET",
-			url:"getCaptcha",
-			success:function(data){
-				//alert("data   "+data);
-				document.getElementById("loginCaptcha1").innerHTML = data;
-				document.getElementById("loginCaptcha").innerHTML = data;
-				
-			}
-		
-		});
-	}
-
-
-	function checkcaptcha()
-	{
-		
-		var generated_captch=document.getElementById("loginCaptcha1");
-		var name = loginCaptcha1.textContent || loginCaptcha1.innerText;
-		var enter_capcha=$('#captcha1').val();
-		//alert("generated   "+generated_captch+"  name  "+name+"  ")
-		 if(enter_capcha != "" && enter_capcha != null)
-         {
-		         
-if(enter_capcha==name)
-	{
-	$('#forgot_btn').attr('disabled', false);
-	
-	flag = true;
-	}
-else
-	{
-	error_message('Incorrect captcha');
-	flag = false;
-	changeCaptcha1();
-	$('#forgot_btn').attr('disabled', 'disabled');
-	
-	//$("#").attr("disabled", true);
-	
-	}
-         }
-		 else
-			 {
-				error_message('Please enter captcha');
-
-
-			 }
-	}
-		function loginSubmit() {
-			let username = $('#username').val();
-			let password = $('#password').val();
-			let captcha = $('#captcha').val();
-			if (username == '') {
-				//alert('Please enter username');
-				return false;
-			}
-			if (password == '') {
-				//alert('Please enter password');
-				return false;
-			}
-			if (captcha == '') {
-				//alert('Please enter captcha');
-				return false;
-			}
-			
 				<div class="row">
 				<div
 						class=" col-md-12 col-lg-12 col-sm-12 col-xs-12 ">
