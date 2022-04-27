@@ -6,6 +6,17 @@
 ## [ADIP Portal Project Idea Power Point Presentation](https://drive.google.com/file/d/1z6RZkAmJsehmTqQTQoJaaqCCsPigH3x5/view?usp=sharing) : <br/> https://drive.google.com/file/d/1z6RZkAmJsehmTqQTQoJaaqCCsPigH3x5/view?usp=sharing
 
 
+
+## [Demo Video of Working of Portal](https://www.youtube.com/watch?v=wpZCTsZigBY) : <br/> https://www.youtube.com/watch?v=wpZCTsZigBY
+
+## Pictures/ Screenshots Of UI
+![alt text](https://cdn.discordapp.com/attachments/950668532155285508/962768547719819385/Screenshot_319.png)<br>
+![alt text](https://cdn.discordapp.com/attachments/950668532155285508/962768547505897522/Screenshot_321.png)<br>
+![alt text](https://cdn.discordapp.com/attachments/950668532155285508/962768547250053220/Screenshot_322.png)<br>
+![alt text](https://cdn.discordapp.com/attachments/950668532155285508/962768548277682227/Screenshot_323.png)<br>
+![alt text](https://cdn.discordapp.com/attachments/950668532155285508/962768547921150012/Screenshot_324.png)<br>
+
+
 ## Introduction </br>
 There are about 2.6 crore people with different abilities in India and with the application of modern technology, a number of aids have emerged that can reduce the effects of disabilities and enhance the economic potential of the differently-abled.
 It has been a constant endeavor of the Indian Government to provide differently-abled persons with aids/appliances, which are essential for their social, economic, and vocational rehabilitation.
